@@ -1,5 +1,6 @@
 ### Hello, I'm Pradyumn Kumar Singh 👋
 
+![Visitor Count](https://profile-counter.glitch.me/{TannyS26}/count.svg)
 <!--
 Here are some ideas to get you started:
 -->
