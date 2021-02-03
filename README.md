@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Technology Noob
 
 
-![Pradyumns's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TannyS26)
+![Pradyumns's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TannyS26&theme=dark)
