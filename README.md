@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: official.pradyumnsingh@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Technology Noob
+
+
+![Pradyumns's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TannyS26)
