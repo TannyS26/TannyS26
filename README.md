@@ -7,14 +7,14 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Post Booking Service Project
-- 🌱 I’m currently learning Flutter, ReactJS
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-- 📫 How to reach me: official.pradyumnsingh@gmail.com
+- 🔭 I’m currently working on <b>Post Booking Service Project</b>
+- 🌱 I’m currently learning <b>Flutter</b>, <b>ReactJS</b>
+- 💬 Ask me about anything <a href="https://www.linkedin.com/in/pradyumnkrsingh/">here</a>
+- 📫 How to reach me: <a href="mailto:official.pradyumnsingh@gmail.com">official.pradyumnsingh@gmail.com</a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Technology Noob
+<!--- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...-->
 
 
 ![Pradyumns's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TannyS26&theme=dark&show_icons=true&count_private=true)
