@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=TannyS26&color=green)
 
-![Visitor Count](https://profile-counter.glitch.me/{TannyS26}/count.svg)
+<!--![Visitor Count](https://profile-counter.glitch.me/{TannyS26}/count.svg)-->
 <!--
 Here are some ideas to get you started:
 -->
