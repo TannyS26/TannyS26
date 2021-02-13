@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...-->
 
 
-![Pradyumns's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TannyS26&theme=dark&show_icons=true&count_private=true)
+<!--![Pradyumns's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TannyS26&theme=dark&show_icons=true&count_private=true)-->
 
 <!--![Top Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=TannyS26&theme=dark)-->
