@@ -7,9 +7,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on <b>Post Booking Service Project</b>
-- 🌱 I’m currently learning <b>Flutter</b>, <b>ReactJS</b>
-- 💬 Ask me about anything <a href="https://www.linkedin.com/in/pradyumnkrsingh/">here</a>
+- 🔭 I’m currently working on <a href="https://www.linkedin.com/in/pradyumnkrsingh/"><b>Swyftin</b></a>
+- 🌱 I’m currently learning <b>ReactJS</b>, <b>DSA</b>.
+- 💬 Ask me about anything <a href="https://www.linkedin.com/in/pradyumnkrsingh/">here</a>.
 - 📫 How to reach me: <a href="mailto:official.pradyumnsingh@gmail.com">official.pradyumnsingh@gmail.com</a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Technology Noob
